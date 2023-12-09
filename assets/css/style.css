@@ -17,14 +17,14 @@ body {
   background: #111;
   font-family: Playfair, serif;
   font-weight: 400;
-  font-size: 12pt;
+  font-size: 16px;
   color: #eee;
 }
 
 .heading {
   font-family: 'Playfair Display', serif ;
   font-weight: 600;
-  font-size: 16pt;
+  font-size: 22px;
   color: #eee;
 }
 
@@ -37,7 +37,7 @@ body {
 .name {
   font-family: 'Playfair Display SC';
   font-weight: 700;
-  font-size: 24pt;
+  font-size: 32px;
   color: #eee;
   margin-left: 8px;
   margin-top: -4.3px;
@@ -47,7 +47,7 @@ body {
   position: absolute; 
   top: 0; 
   right: 0; 
-  padding: 5pt;
+  padding: 6.5px;
 }
 
 .pic {
@@ -78,7 +78,7 @@ div {
 li {
   display: inline-block;
   text-decoration: none;
-  font-size: 16pt;
+  font-size: 22px;
   margin-right: 3.5px;
 }
 
